@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an app called Africa, built in SwiftUI 2.0.
+- 🌱 I’m currently learning SwiftUI 2.0, and Flutter 😁
+- 👯 I’m looking to collaborate on any Flutter or SwiftUI projects!!
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: harshsolo.dev@gmail.com
+- About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. I was in the final semester of my Masters, puzzled about my career ahead. However, one introductory cookbook later, I knew what I wanted to work on - Flutter!!
