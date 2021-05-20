@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- If you've collaborated/worked with me, or liked my services, you can 
+[Buy me a Coffee!](buymeacoffee.com/harshbsv) -->
+
+
 - 🔭 I’m currently working on an app called Africa, built in SwiftUI 2.0.
 - 🌱 I’m currently learning SwiftUI 2.0, and Flutter 😁
 - 💬 Ask me about - I'm more than happy to help out with anything Flutter related!!
@@ -22,5 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: harshsolo.dev@gmail.com
 - About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. I was in the final semester of my Masters, puzzled about my career ahead. However, one introductory cookbook later, I knew what I wanted to work on - Flutter!!
 
-If you've collaborated/worked with me, or liked my services, you can 
-[Buy me a Coffee!](buymeacoffee.com/harshbsv)
+![Harshvardhan's github stats](https://github-readme-stats.vercel.app/api?username=harshbsv)
