@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: harshsolo.dev@gmail.com
 - About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. I was in the final semester of my Masters, puzzled about my career ahead. However, one introductory cookbook later, I knew what I wanted to work on - Flutter!!
+
+If you've collaborated/worked with me, or liked my services, you can 
+[Buy me a Coffee!](buymeacoffee.com/harshbsv)
