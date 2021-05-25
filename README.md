@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [Buy me a Coffee!](buymeacoffee.com/harshbsv) -->
 
 
-- 🔭 I’m currently working on an app called Africa, built in SwiftUI 2.0.
+- 🔭 I’m currently working on honing my SwiftUI 2 skills 😁.
 - 🌱 I’m currently learning SwiftUI 2.0, and Flutter 😁
 - 💬 Ask me about - I'm more than happy to help out with anything Flutter related!!
 - 👯 I’m looking to collaborate on any Flutter or SwiftUI projects!!
