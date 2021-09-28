@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 [Buy me a Coffee!](buymeacoffee.com/harshbsv) -->
 
 
-- I’m currently working on building a portfolio of SwiftUI and UIKit apps 😁.
-- I’m currently learning SwiftUI 2.0, and Flutter 😁
-- Ask me about - I'm more than happy to help out with anything Flutter related!!
-- I’m looking to collaborate/work on any Flutter or SwiftUI projects!!
+- I’m currently working on building a portfolio of Flutter and SwiftUI apps 😁
+- I’m currently learning SwiftUI, and expanding my knowledge of Flutter 😁
+- Ask me about - anything Flutter related!! I would be really happy to help you out with your projects!
+- I’m looking to collaborate/work on any Flutter or SwiftUI project!!
+- I'm open to Freelance/Remotely work as a Flutter developer 😄
 - How to reach me: harshsolo.dev@gmail.com
 - About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. I was in the final semester of my Masters, puzzled about my career ahead. However, one introductory cookbook later, I knew what I wanted to work on - Flutter!!
 
