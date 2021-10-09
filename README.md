@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [Buy me a Coffee!](buymeacoffee.com/harshbsv) -->
 
 
-- I’m currently working on building a portfolio of Flutter and SwiftUI apps 😁
-- I’m currently learning SwiftUI, and expanding my knowledge of Flutter 😁
+- I’m currently working on building a portfolio of Flutter apps 😁
+- I’m currently learning and expanding my knowledge of Flutter 😁
 - Ask me about - anything Flutter related!! I would be really happy to help you out with your projects!
 - I’m looking to collaborate/work on any Flutter or SwiftUI project!!
 - I'm open to Freelance/Remotely work as a Flutter developer 😄
