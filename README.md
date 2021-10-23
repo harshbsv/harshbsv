@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 [Buy me a Coffee!](buymeacoffee.com/harshbsv) -->
 
 
-- I’m currently working on building a portfolio of Flutter apps 😁
-- I’m currently learning and expanding my knowledge of Flutter 😁
+- I’m currently working on building a portfolio of iOS apps 😁
+- I’m currently learning and expanding my knowledge of SwiftUI 😁
 - Ask me about - anything Flutter related!! I would be really happy to help you out with your projects!
-- I’m looking to collaborate/work on any Flutter or SwiftUI project!!
-- I'm open to Freelance/Remotely work as a Flutter developer 😄
+- I’m looking to collaborate/work on any Flutter or SwiftUI projects!!
+- I'm open to Freelance/Remotely work as a Flutter or iOS developer 😄
 - How to reach me: harshsolo.dev@gmail.com
-- About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. I was in the final semester of my Masters, puzzled about my career ahead. However, one introductory cookbook later, I knew what I wanted to work on - Flutter!!
+- About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. After my masters, I decided to work on this lifelong dream and make a career out of it!!
 
 ![Harshvardhan's github stats](https://github-readme-stats.vercel.app/api?username=harshbsv)
