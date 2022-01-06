@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 - I’m currently working on building a portfolio of iOS apps 😁
 - I’m currently learning and expanding my knowledge of SwiftUI 😁
-- Ask me about - anything Flutter related!! I would be really happy to help you out with your projects!
-- I’m looking to collaborate/work on any Flutter or SwiftUI projects!!
-- I'm open to Freelance/Remotely work as a Flutter or iOS developer 😄
+- Ask me about - anything SwiftUI related!! I would be really happy to help you out with your projects!
+- I’m looking to collaborate/work on any SwiftUI projects!!
+- I'm open to Freelance/Full-time work as an iOS developer 😄
 - How to reach me: harshsolo.dev@gmail.com
+
 - About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. After my masters, I decided to work on this lifelong dream and make a career out of it!!
 
 ![Harshvardhan's github stats](https://github-readme-stats.vercel.app/api?username=harshbsv)
