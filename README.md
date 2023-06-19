@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - I’m currently learning and expanding my knowledge of Flutter!! 😁
 - Ask me about - anything Flutter related!! I would be really happy to help you out with your projects!
 - I'm open to Collaborate/Freelance work on Flutter projects! 😄
-- How to reach me: harshsolo.dev@gmail.com
 - About Me: I am a self-taught programmer. Mobile apps always fascinated me, and it has been my childhood dream to learn and build amazing mobile apps. After my masters, I decided to work on this lifelong dream and make a career out of it!!
+- P.S.: I am open to work on a contractual/freelance basis on your projects!
+- How to reach me: harshsolo.dev@gmail.com
 
 ![Harshvardhan's github stats](https://github-readme-stats.vercel.app/api?username=harshbsv)
