@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [Buy me a Coffee!](buymeacoffee.com/harshbsv) -->
 
 
+- Based in Mumbai, India.
 - I’m currently Freelancing as a Flutter developer. 😁
 - Ask me about - anything Flutter related!! I would be really happy to help you out with your projects!
 - I'm open to Collaborate/Freelance work on Flutter projects! 😄
